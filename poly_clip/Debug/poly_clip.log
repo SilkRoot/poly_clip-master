@@ -1,0 +1,8 @@
+﻿  Globals.cpp
+c:\users\rebecca\downloads\poly_clip-master\poly_clip-master\poly_clip\globals.h(13): warning C4091: 'static ': ignored on left of 'Globals' when no variable is declared
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  read_file.cpp
+  poly_clip.cpp
+Globals.obj : error LNK2001: unresolved external symbol "private: static class std::vector<class std::vector<class point_3d,class std::allocator<class point_3d> >,class std::allocator<class std::vector<class point_3d,class std::allocator<class point_3d> > > > * Globals::g_data_storage" (?g_data_storage@Globals@@0PAV?$vector@V?$vector@Vpoint_3d@@V?$allocator@Vpoint_3d@@@std@@@std@@V?$allocator@V?$vector@Vpoint_3d@@V?$allocator@Vpoint_3d@@@std@@@std@@@2@@std@@A)
+C:\Users\Rebecca\Downloads\poly_clip-master\poly_clip-master\Debug\poly_clip.exe : fatal error LNK1120: 1 unresolved externals
